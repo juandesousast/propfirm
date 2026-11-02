@@ -1,0 +1,11 @@
+# Archivos de captura y evidencias sensibles
+*.har
+*evidence*.json
+
+# Dependencias
+node_modules/
+.pnpm-store/
+
+# Sistema operativo y logs
+.DS_Store
+*.log
